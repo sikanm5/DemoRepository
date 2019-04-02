@@ -1,0 +1,10 @@
+package testBymyOwn;
+
+public class CheckingTheWebsite {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

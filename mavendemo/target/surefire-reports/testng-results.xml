@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="73" started-at="2019-03-30T16:51:32 EDT" finished-at="2019-03-30T16:51:32 EDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="73" started-at="2019-03-30T16:51:32 EDT" finished-at="2019-03-30T16:51:32 EDT">
+      <class name="mavendemo.MTest">
+        <test-method status="PASS" signature="B()[pri:0, instance:mavendemo.MTest@dfd3711]" name="B" duration-ms="1" started-at="2019-03-30T16:51:32 EDT" finished-at="2019-03-30T16:51:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+      </class> <!-- mavendemo.MTest -->
+      <class name="mavendemo.PTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:mavendemo.PTest@38082d64]" name="test" duration-ms="1" started-at="2019-03-30T16:51:32 EDT" finished-at="2019-03-30T16:51:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- mavendemo.PTest -->
+      <class name="mavendemo.AppTest">
+        <test-method status="PASS" signature="pp()[pri:0, instance:mavendemo.AppTest@2ed94a8b]" name="pp" duration-ms="7" started-at="2019-03-30T16:51:32 EDT" finished-at="2019-03-30T16:51:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pp -->
+      </class> <!-- mavendemo.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
